@@ -41,3 +41,7 @@ h3 {
   background-color: black;
   color: white;
 }
+
+.product-card__description {
+  flex-grow: 1;
+}
